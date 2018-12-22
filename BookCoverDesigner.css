@@ -1,0 +1,35 @@
+#title{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#subtitle{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#author{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#publish{
+	text-align: right;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	margin-right: 40px;
+}
+
+#year{
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-right: 40px;
+}
+
+#clr{
+	border: 5px solid grey;
+}
